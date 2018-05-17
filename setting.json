@@ -1,0 +1,35 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "extensions.autoUpdate": true,
+  "typescript.check.npmIsInstalled": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "vue"
+  ],
+  "eslint.options": {
+    "plugins": [
+      "html"
+    ]
+  },
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "workbench.iconTheme": "vscode-icons",
+  "vetur.validation.template": false,
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 11, // 为了尽可能少滚动屏幕，这里的 fontSize 设置的比较小
+  "editor.renderWhitespace": "all",
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.renderControlCharacters": false,
+  "editor.tabSize": 2,
+  "editor.autoIndent": false,
+  "gitlens.keymap": "alternate",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+}
