@@ -2,7 +2,7 @@
 前端工程师的 vs code settings (包含 Vue）
 ## Settings
 
-[setting.json](#seting.json)
+[setting.json](https://github.com/adwerrd/vscode-wu/blob/master/setting.json)
 
 ## Extensions
 
