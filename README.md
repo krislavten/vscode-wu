@@ -1,5 +1,8 @@
 # vscode-wu
-前端工程师的 vs code settings (包含 Vue）
+
+前端工程师的 vs code settings && extensions.
+感觉这套配置比较顺手，希望能帮到需要的人
+
 ## Settings
 
 [setting.json](https://github.com/adwerrd/vscode-wu/blob/master/setting.json)
